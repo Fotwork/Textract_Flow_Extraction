@@ -33,6 +33,7 @@ This project uses AWS Textract to extract text from images stored in an S3 bucke
 
    ```bash
    aws configure
+   ```
 
 ## Configuration
 
